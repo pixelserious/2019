@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to 2019, the spectacular year progress tracker
 
-You can use the [editor on GitHub](https://github.com/pixelserious/2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2019 Year tracker shows you the new year progress in an inpiring way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A great help to achieve your new year's resolutions!
 
-### Markdown
+## User guide
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Set the display mode by tapping anywhere on the screen. You can choose among 4 display modes :
 
-```markdown
-Syntax highlighted code block
+- Days remaining
+- Days elapsed
+- Percent remaining
+- Percent elapsed
 
-# Header 1
-## Header 2
-### Header 3
+Tap the notification button to enable the badge on the app icon, allowing you to follow the year progress without even opening the app. (You will have to accept the system authorization for notifications first.)
 
-- Bulleted
-- List
+If you like the app, please rate us highly on the App Store by tapping the heart icon in the bottom right.
 
-1. Numbered
-2. List
+## Privacy policy
 
-**Bold** and _Italic_ and `Code` text
+The app does not collect any user data. No tracking of any form is performed by the app.
 
-[Link](url) and ![Image](src)
-```
+Apple allows app developers to view usage data. This usage data is collected by Apple and under their control. It is anonymous and subjected to user opt-in. We do not store or transmit this data to other party.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixelserious/2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2018 Pixel Serious
