@@ -13,6 +13,8 @@ Set the display mode by tapping anywhere on the screen. You can choose among 4 d
 - Percent remaining
 - Percent elapsed
 
+The time remaining in the year is also beautifully represented as a liquid full of emotions and life that progressively disappears as the year goes by. Hurry to achieve your objectives while you've got time!
+
 Tap the notification button to enable the badge on the app icon, allowing you to follow the year progress without even opening the app. (You will have to accept the system authorization for notifications first.)
 
 If you like the app, please rate us highly on the App Store by tapping the heart icon in the bottom right.
