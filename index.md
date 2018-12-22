@@ -1,8 +1,8 @@
-# Welcome to 2019, the spectacular year progress tracker
+# Welcome to 2019 New Year Progress
 
-2019 Year tracker shows you the new year progress in an inpiring way.
+2019 New Year Progress is an app that shows you the new year progress in a spectacular and inpiring way.
 
-A great help to achieve your new year's resolutions!
+It's a great help to achieve your new year's good resolutions!
 
 ## User guide
 
@@ -22,9 +22,5 @@ If you like the app, please rate us highly on the App Store by tapping the heart
 The app does not collect any user data. No tracking of any form is performed by the app.
 
 Apple allows app developers to view usage data. This usage data is collected by Apple and under their control. It is anonymous and subjected to user opt-in. We do not store or transmit this data to other party.
-
-
-
-
 
 © 2018 Pixel Serious
