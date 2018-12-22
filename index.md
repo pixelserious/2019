@@ -1,6 +1,6 @@
 # Welcome to 2019 New Year Progress
 
-2019 New Year Progress is an app that shows you the new year progress in a spectacular and inpiring way.
+2019 New Year Progress is an app that shows you the new year progress in a spectacular and inspiring way.
 
 It's a great help to achieve your new year's good resolutions!
 
