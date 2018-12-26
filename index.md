@@ -4,6 +4,8 @@
 
 It's a great help to achieve your new year's good resolutions!
 
+![2019 Screenshot](/2019.png)
+
 ## User guide
 
 Set the display mode by tapping anywhere on the screen. You can choose among 4 display modes :
